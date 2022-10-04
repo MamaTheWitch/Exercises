@@ -12,3 +12,5 @@ let heading = 'why does it always rain on me';
 let words = heading.split(" ");
 for (var i = 0; i < words.length; i++){words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);}
 console.log(words.join(" "))
+
+//Create a function that takes a newspaper 
