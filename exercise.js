@@ -13,4 +13,6 @@ let words = heading.split(" ");
 for (var i = 0; i < words.length; i++){words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);}
 console.log(words.join(" "))
 
-//Create a function that takes a newspaper 
+//Create a function that takes a text message and returns it reversed (from end to start)
+function reverseString(str) {return str.split("").reverse().join("");}
+console.log(reverseString("And this is my United States of Whatever!"));
