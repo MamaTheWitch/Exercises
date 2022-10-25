@@ -1,6 +1,6 @@
 function Whatever() {
-    let myArray = ["one", "two", "guess what?", {yes: "three!", no: "four..."}]
-return console.log(myArray)
+    let myArray = ["one", " two", " guess what?", " three!"]
+return console.log(String(myArray))
 };
 Whatever()
 
