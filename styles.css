@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://images.tv9hindi.com/wp-content/uploads/2022/06/secret-behind-albert-einstein-tongue-photo.jpg');
+    background-attachment: fixed;
+     background-size: cover;
+          margin-bottom: 100px;
+    }
+
+    p { 
+    text-align: center; 
+    color: white; 
+    font-family: lucida grande,lucida sans unicode,lucida sans,Geneva,Arial,sans-serif; 
+    font-weight: 700;
+    font-size: 20px;
+    position: absolute;
+    }
