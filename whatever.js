@@ -5,7 +5,7 @@ return console.log(String(myArray))
 Whatever()
 
 function Bingo(x) {
-    if (x == 5) {console.log("BINGO!!!")}
+    if (x > 5) {console.log("BINGO!!!")}
     else console.log("try again later...")
   };
   Bingo(4);
