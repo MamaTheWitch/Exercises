@@ -1,1 +1,1 @@
-unrelated excercises for coding classes
+unrelated exercises for coding classes
